@@ -1,0 +1,162 @@
+/* #triangle{
+    width:0;
+    height:0;
+border-top: 60px solid transparent;
+border-bottom: 60px solid red;
+border-left:60px solid transparent;
+border-right:60px solid transparent;
+} 
+#circle{
+    width: 300px;
+    height:300px;
+    
+    background-color: aquamarine;
+    border-radius: 200px;
+} */
+/* body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+header h1 {
+	margin: 0;
+	font-size: 36px;
+}
+
+.controls {
+	background-color: #eee;
+	padding: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.controls label {
+	margin-right: 10px;
+}
+
+.controls select {
+	margin-right: 20px;
+}
+
+.controls button {
+	border: none;
+	border-radius: 5px;
+	padding: 10px;
+	margin-right: 10px;
+	cursor: pointer;
+	font-size: 16px;
+}
+
+.textarea-wrapper {
+	padding: 10px;
+}
+
+textarea {
+	width: 100%;
+	box-sizing: border-box;
+	font-size: 16px;
+	padding: 10px;
+	border: 2px solid #333;
+	border-radius: 5px;
+	resize: none;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+footer button {
+	border: none;
+	border-radius: 5px;
+	padding: 10px;
+	cursor: pointer;
+	background-color: #eee;
+	font-size: 16px;
+} */
+*{
+	margin:0;
+	padding: 0;
+	background-color: rgb(24, 15, 22);
+	
+} 
+
+.f{
+	display:flex;
+ justify-content: center;
+ align-items: center; 
+
+} 
+.btn{
+	width:60px;
+	height:30px;
+	border-radius: 4px;
+color:black;
+border-color: white;
+background-color: #ffffff; 
+font-weight: bold;
+
+} 
+form{
+	background-color:  rgb(59, 15, 56);
+	padding: 3px;
+	margin-top: 40px;
+	box-shadow: 4px 3px 8px 8px white;
+	color:white;
+}
+label{
+	background-color:rgb(59, 15, 56);
+	color:white;
+}
+input[type="text"]{
+	background-color:white;
+	height:30px;
+	width:200px;
+}
+input[type="password"]{
+	background-color:white;
+	height:30px;
+	width:200px;
+}
+input[type="email"]{
+	background-color:white;
+	height:30px;
+	width:200px;
+}
+input[type="date"]{
+	background-color:white;
+	height:30px;
+	width:200px;
+}
+
+.h{
+	background-color: rgb(237, 235, 235);
+	color:black;
+} 
+#a{
+	background-color: red;
+	border:red;
+	color:white;
+	margin-left:5px;
+	
+	margin-bottom:10px;
+}
+#b{
+	background-color: green;
+	border:green; 
+	margin-bottom: 10px;
+	margin-left: 4px;
+
+	color:white;
+}
